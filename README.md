@@ -1,4 +1,4 @@
-# ArtEvos Interiors — artevos.in
+# ArtEvos Interiors — artevosinfra.in
 
 Static website for ArtEvos Interiors, an interior design studio in Bhubaneswar.
 

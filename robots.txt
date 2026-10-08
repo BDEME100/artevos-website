@@ -3,4 +3,4 @@ Allow: /
 Disallow: /backend/
 Disallow: /docs/
 
-Sitemap: https://artevos.in/sitemap.xml
+Sitemap: https://artevosinfra.in/sitemap.xml
