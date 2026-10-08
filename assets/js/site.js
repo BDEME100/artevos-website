@@ -46,7 +46,7 @@ var IMG_FALLBACK=(function(){
    --------------------------------------------------------------- */
 var CONFIG={
   whatsapp:"917656850169",
-  endpoint:""
+  endpoint:"https://script.google.com/macros/s/AKfycbwZ-UdYo6wwUJiqpGYt55J_7AcPj-faWwh0QKxkBCGrTpnul0xnLsmWds8XnXIAxhLlOw/exec"
 };
 window.AE_CONFIG=CONFIG;
 window.AE_WA=CONFIG.whatsapp;
