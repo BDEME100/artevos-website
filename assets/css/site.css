@@ -1182,3 +1182,8 @@ section[id]{scroll-margin-top:84px}
 a.contact-card{text-decoration:none;color:inherit}
 .foot-addr{font-size:.86rem;line-height:1.55;margin-top:10px}
 .foot-addr a{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
+
+/* ArtEvos Infra wordmark (Oct 2026): "Infra" in the same ink as "Art" */
+.brand-name .brand-infra{color:inherit;font-weight:700}
+@media(max-width:400px){.brand-name{font-size:1.28rem}.brand-sub{letter-spacing:.22em}}
+@media(max-width:340px){.brand-name{font-size:1.14rem}}
