@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (only if you later add tooling)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Logs & temp
+*.log
+tmp/
+.cache/
+
+# Local env / secrets — never commit real keys or endpoints
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Build output for sharing only — 2.8 MB copy of the whole site.
+# Regenerate any time with:  python3 preview_build.py
+# Never deploy it: it would duplicate every page on one URL.
+ArtEvos-Website.html

@@ -1,0 +1,49 @@
+{
+  "name": "ArtEvos Interiors",
+  "short_name": "ArtEvos",
+  "description": "Interior design studio in Bhubaneswar — home interiors, modular kitchens and turnkey projects.",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#faf6ef",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "lifestyle",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Book a consultation",
+      "url": "/#booking"
+    },
+    {
+      "name": "Instant estimate",
+      "url": "/#estimate"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ]
+}

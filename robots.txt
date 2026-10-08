@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /backend/
+Disallow: /docs/
+
+Sitemap: https://artevos.in/sitemap.xml
